@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#videoListResponse",
+  "items": [
+    {
+      "id": "qpOt62UE6pU",
+      "snippet": {
+        "publishedAt": "2024-02-08T22:09:31Z",
+        "channelId": "UCz_cNcJzCy4asffzW5ERH1w",
+        "title": "New Pack! Snake Eyes, Diabellstar, and More! Competitive Master Duel Tournament Gameplay! #98",
+        "description": "Sign up: https://www.whatnot.com/invite/dkayed and post your username below for a chance to win a FREE BOX of Phantom Nightmare! 3 Winners! Giveaway ends on Sunday!\n\nTwitch: https://www.Twitch.tv/Dkayed\n\ud83d\udd34Livestream Schedule: 4pm EST Sunday\nBusiness Inquiries: teamdkayed@unitedtalent.com\n\u25baTier List + Top Decks + Gem Guide: https://MasterDuelMeta.com + https://DuelLinksMeta.com\n\u25ba\u25baTop Player Help + Events + Community: https://discord.gg/DuelLinksMeta\n\u25ba\u25ba\u25baSubscribe on TWITCH or JOIN on Youtube for EVENTS + Top Player Help! https://twitch.tv/dkayed/subscribe or https://www.youtube.com/duellinksmeta/join\n\n#YuGiOh #MasterDuel #yugiohmasterduel \n\n0:00 Intro\n0:31 Giveaway! + Lab vs Dinos\n13:27 Rescue Snake Eyes vs Snake Eyes\n24:57 Pends vs Snake Eyes\n35:33 Sister vs Phantom Knight\n49:36 Branded vs SHS\n59:54 Dinomorphia vs Lab\n1:07:47 Vanquish Soul vs Snake Eyes",
+        "channelTitle": "Dkayed"
+      },
+      "contentDetails": {
+        "duration": "PT1H26M"
+      },
+      "statistics": {
+        "viewCount": "6559",
+        "likeCount": "472",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
